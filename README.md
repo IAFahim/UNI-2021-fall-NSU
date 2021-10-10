@@ -9,7 +9,7 @@ Link and notes
 __CSE225.8+L [CSE225](https://www.facebook.com/groups/553515292398006)__,
 __CSE231.14+L [CSE231](https://www.facebook.com/groups/1262494590874256)__,
 __MAT250.15 [MAT250](https://www.facebook.com/groups/322792622939483)__,
-__SOC101.14 [SOC101](https://www.facebook.com/groups/2914853945446558)__,
+__SOC101.14 [SOC101](https://www.facebook.com/groups/1507862162882082)__,
 
 # GitHub Cloabration
 __CSE231.14+L [CSE231](https://github.com/IAFahim/CSE231)__,
