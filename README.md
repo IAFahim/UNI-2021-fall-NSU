@@ -12,6 +12,7 @@ __MAT250.15 [MAT250](https://www.facebook.com/groups/322792622939483)__,
 __SOC101.14 [SOC101](https://www.facebook.com/groups/1507862162882082)__,
 
 # GitHub Cloabration
+__CSE225.8+L [CSE225](https://github.com/IAFahim/CSE225)__,
 __CSE231.14+L [CSE231](https://github.com/IAFahim/CSE231)__,
 __MAT250.15 [MAT250](https://github.com/IAFahim/Mat250)__
 
