@@ -1,7 +1,8 @@
 # UNI-2021-fall-NSU
 Link and notes
 
-![image](https://user-images.githubusercontent.com/63500913/136257554-b73b5bd4-61c0-4ca7-b034-c4808f62c7ce.png)
+![image](https://user-images.githubusercontent.com/63500913/145328395-03da91ef-d76b-4925-9cdd-ea7c7b84e4fc.png)
+
 
 **One Note: [UNI 2021 fall](https://1drv.ms/u/s!AuHQESQOn6HwlykHW6ySt94mjJN4)**
 
@@ -25,5 +26,3 @@ SOC101.14|9:40:00|11:10:00|Sun, Tue
 CSE231.14|11:20:00|12:50:00|Thu
 CSE231L.14|11:20:00|14:30:00|Wed
 MAT250.15|9:40:00|11:10:00|Thu
-Disturb Someone|22:00:00|23:30:00|Sun, Mon, Tue, Wed, Thu, Fri
-
